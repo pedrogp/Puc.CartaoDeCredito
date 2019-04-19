@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.CartaoDeCredito", "Puc.CartaoDeCredito\Puc.CartaoDeCredito.csproj", "{C942D96C-FC3B-45BC-9196-1A1C3C85D344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.CartaoDeCredito.Tests", "Puc.CartaoDeCredito.Tests\Puc.CartaoDeCredito.Tests.csproj", "{652BD35C-B103-4164-8C3E-C98FCCADFC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C942D96C-FC3B-45BC-9196-1A1C3C85D344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C942D96C-FC3B-45BC-9196-1A1C3C85D344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C942D96C-FC3B-45BC-9196-1A1C3C85D344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C942D96C-FC3B-45BC-9196-1A1C3C85D344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652BD35C-B103-4164-8C3E-C98FCCADFC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652BD35C-B103-4164-8C3E-C98FCCADFC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652BD35C-B103-4164-8C3E-C98FCCADFC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652BD35C-B103-4164-8C3E-C98FCCADFC22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {594C522E-675B-4BDC-B9EB-F9E1C2906D8E}
+	EndGlobalSection
+EndGlobal
