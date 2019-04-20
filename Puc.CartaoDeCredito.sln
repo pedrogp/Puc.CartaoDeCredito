@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.CartaoDeCredito", "Puc.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.CartaoDeCredito.Tests", "Puc.CartaoDeCredito.Tests\Puc.CartaoDeCredito.Tests.csproj", "{652BD35C-B103-4164-8C3E-C98FCCADFC22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.CartaoDeCredito.Entidades", "Puc.CartaoDeCredito.Entidades\Puc.CartaoDeCredito.Entidades.csproj", "{2BA24845-0D59-4A78-8025-69810D1F5B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puc.CartaoDeCredito.Negocio", "Puc.CartaoDeCredito.Negocio\Puc.CartaoDeCredito.Negocio.csproj", "{AC3EC2C3-BF67-4503-AD6A-C6043D4851D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{652BD35C-B103-4164-8C3E-C98FCCADFC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{652BD35C-B103-4164-8C3E-C98FCCADFC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{652BD35C-B103-4164-8C3E-C98FCCADFC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA24845-0D59-4A78-8025-69810D1F5B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA24845-0D59-4A78-8025-69810D1F5B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA24845-0D59-4A78-8025-69810D1F5B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA24845-0D59-4A78-8025-69810D1F5B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3EC2C3-BF67-4503-AD6A-C6043D4851D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3EC2C3-BF67-4503-AD6A-C6043D4851D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3EC2C3-BF67-4503-AD6A-C6043D4851D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3EC2C3-BF67-4503-AD6A-C6043D4851D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
